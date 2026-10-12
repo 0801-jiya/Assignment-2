@@ -1,0 +1,74 @@
+﻿body {
+    background: #000000;
+    color: #ffffff;
+    margin: 0;
+    padding: 40px;
+    font-family: "Rye", serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 1.8;
+    }
+
+header {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h1 {
+ font-family: "Rye", serif;
+ font-size: 4rem;
+ letter-spacing: 4px;
+ color: #418ce8;
+}
+
+h2 {
+    font-family: "Rye", serif;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: #eaa9a9;
+}
+
+.artist {
+    font-size: 2rem;
+    color: #ffffff;
+}
+
+.verse {
+    margin-bottom: 50px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/*Calm*/
+.calm {
+    font-size: 1.2rem;
+    font-weight: 300;
+    color: #ffe9c9;
+    text-align: center;
+    font-family: "Sansation", sans-serif;
+}
+
+/*romance*/
+.romance {
+    font-size: 1.3rem;
+    font-weight: bold;
+    color: #f9c87c;
+    text-align: center;
+    font-family: "Sansation", sans-serif;
+}
+
+/*powerful*/
+.powerful {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #ffac4a;
+    letter-spacing: 3px;
+    text-align: center;
+    font-family: "Sansation", sans-serif;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #418ce8;
+}
